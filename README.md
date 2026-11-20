@@ -18,11 +18,15 @@ A Python program for displaying and managing a list of favorite movies.
 - Loops
 
 ## Technologies
+
 - Python
 
-## Repository Structure
+## How to Run
 
-    my-first-project/
-    ├── hello.py
-    ├── movies.py
-    └── README.md
+Run the Python files using:
+
+    python3 hello.py
+
+    python3 movies.py
+
+## Repository Structure
