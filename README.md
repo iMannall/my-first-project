@@ -1,32 +1,66 @@
 # Python Projects
 
-A collection of Python projects focused on programming fundamentals and problem-solving.
+A collection of Python projects demonstrating programming fundamentals, practical problem-solving, and interactive console applications.
 
 ## Projects
 
 ### 1. Hello World
+
 A simple Python program that displays introductory messages using the `print()` function.
 
-### 2. My Favorite Movies
-A Python program for displaying and managing a list of favorite movies.
+### 2. Movie Collection Manager
 
-**Concepts used:**
-- Lists
-- Variables
+An interactive console-based application for managing a personal movie collection.
+
+**Features:**
+- Display all movies with numbered lists.
+- Add new movies to the collection.
+- Remove movies by title.
+- Search for a specific movie.
+- Display the total number of movies.
+- Interactive menu with multiple options.
+- Input validation and duplicate checking.
+
+**Programming Concepts:**
+- Variables and Lists
 - Functions
-- Conditional Statements
-- Loops
+- Loops and Conditional Statements
+- User Input and Output
+- List Manipulation
+- String Methods
+- Error Handling through Input Validation
 
 ## Technologies
 
-- Python
+- Python 3
 
 ## How to Run
 
-Run the Python files using:
+Make sure Python 3 is installed.
 
-    python3 hello.py
+Run the following commands in your terminal:
 
-    python3 movies.py
+```bash
+python3 hello.py
+```
+
+To run the Movie Collection Manager:
+
+```bash
+python3 movies.py
+```
 
 ## Repository Structure
+
+```text
+my-first-project/
+├── hello.py
+├── movies.py
+└── README.md
+```
+
+## Author
+
+Manal
+
+GitHub: [@iMannall](https://github.com/iMannall)
